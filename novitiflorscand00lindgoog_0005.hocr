@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./novitiflorscand00lindgoog_0005.png"; bbox 0 0 2738 4469; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 154 736 2308 1388">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 154 724 2308 1388">
+     <span class='ocr_line' id='line_1_1' title="bbox 870 736 1924 951; baseline 0.002 -40"><span class='ocrx_word' id='word_1_1' title='bbox 870 782 1598 913; x_wconf 82' lang='lat' dir='ltr'><strong>NOVITIAE</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1707 947 1711 951; x_wconf 10' lang='lat'>&lt;</span> <span class='ocrx_word' id='word_1_3' title='bbox 1917 736 1924 743; x_wconf 73' lang='grc'><strong><em>’</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 154 1218 2308 1388; baseline -0.001 0"><span class='ocrx_word' id='word_1_4' title='bbox 154 1218 793 1388; x_wconf 85' lang='lat' dir='ltr'><strong>FLORAE</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 927 1219 2308 1387; x_wconf 80' lang='lat' dir='ltr'><strong>SCANDINAVICAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1178 1825 1253 1897">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1178 1825 1253 1897">
+     <span class='ocr_line' id='line_1_3' title="bbox 1178 1825 1253 1897; baseline 0.013 -1"><span class='ocrx_word' id='word_1_6' title='bbox 1178 1825 1253 1897; x_wconf 79' lang='lat' dir='ltr'><strong>af</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 600 2131 1693 2247">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 600 2131 1693 2247">
+     <span class='ocr_line' id='line_1_4' title="bbox 600 2131 1693 2247; baseline -0.001 -42"><span class='ocrx_word' id='word_1_7' title='bbox 600 2187 608 2193; x_wconf 86' lang='lat'><em>-</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 777 2131 848 2205; x_wconf 79' lang='lat'><strong>0.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 901 2131 967 2204; x_wconf 83' lang='lat' dir='ltr'><strong>J.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1014 2131 1693 2247; x_wconf 40' lang='lat' dir='ltr'>&amp;INDEBERQ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1033 3722 1421 3796">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1033 3722 1421 3796">
+     <span class='ocr_line' id='line_1_5' title="bbox 1033 3722 1421 3796; baseline 0.01 -14"><span class='ocrx_word' id='word_1_11' title='bbox 1033 3722 1170 3783; x_wconf 68' lang='lat'>‹261-</span> <span class='ocrx_word' id='word_1_12' title='bbox 1177 3737 1421 3796; x_wconf 71' lang='lat' dir='ltr'>EEEEEE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1151 3927 1296 3974">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1151 3927 1296 3974">
+     <span class='ocr_line' id='line_1_6' title="bbox 1151 3927 1296 3974; baseline 0.014 -2"><span class='ocrx_word' id='word_1_13' title='bbox 1151 3927 1296 3974; x_wconf 85' lang='grc'><strong>88888</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
